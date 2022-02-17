@@ -1,4 +1,6 @@
 # WebApps-S22-Assignment-4
 A practice assignment for HTML with CSS
 
-[The play](https://44-563-web-apps-s22.github.io/webapps-s22-assignment-4-Zamiels-cmd/play.html)
+Hosted at:
+
+[https://44-563-web-apps-s22.github.io/webapps-s22-assignment-4-Zamiels-cmd/play.html](https://44-563-web-apps-s22.github.io/webapps-s22-assignment-4-Zamiels-cmd/play.html)
