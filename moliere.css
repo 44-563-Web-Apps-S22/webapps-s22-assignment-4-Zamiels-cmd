@@ -1,3 +1,12 @@
+body {
+    padding-left: 2pc; 
+    padding-bottom: 10pc;
+}
+
+pre{
+    background-color: whitesmoke;
+}
+
 .speech {
     font: optional;
     color:#000;
@@ -40,4 +49,5 @@ table {
 tr:nth-child(even) {
     background-color: bisque;
 }
+
 
