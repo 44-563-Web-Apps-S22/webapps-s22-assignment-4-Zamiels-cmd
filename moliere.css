@@ -27,6 +27,7 @@ pre{
 .name {
     font: optional;
     color:#000;
+
 }
 
 .ARG {
@@ -51,3 +52,8 @@ tr:nth-child(even) {
 }
 
 
+.name:hover {
+    text-shadow: 1px 1px red;
+    border: 1px magenta;
+    border-style: solid;
+}
