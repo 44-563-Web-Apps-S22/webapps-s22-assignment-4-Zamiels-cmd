@@ -1,0 +1,32 @@
+.speech {
+    font: optional;
+    color:#000;
+}
+
+.direction {
+    font: optional;
+    color: #000;
+    background-color: cyan;
+}
+
+.direction:hover {
+    font: optional;
+    color: #000;
+    background-color: yellow;
+}
+
+.name {
+    font: optional;
+    color:#000;
+}
+
+.name .ARG {
+    font: optional;
+    color: cadetblue;
+}
+
+.name .TOI {
+    font: optional;
+    color: chartreuse;
+}
+
