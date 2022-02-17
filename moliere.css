@@ -20,13 +20,24 @@
     color:#000;
 }
 
-.name .ARG {
+.ARG {
     font: optional;
-    color: cadetblue;
+    background-color: cadetblue;
 }
 
-.name .TOI {
+.TOI {
     font: optional;
-    color: chartreuse;
+    background-color: chartreuse;
+}
+
+table {
+    border: 1px solid;
+    color:black;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+tr:nth-child(even) {
+    background-color: bisque;
 }
 
